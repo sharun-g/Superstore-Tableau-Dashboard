@@ -18,7 +18,7 @@ The dashboard provides deep insights into customer behavior, sales performance, 
 📸 **Dashboard Preview**  
 
 🔹 **Customer Dashboard**  
-![image alt]((https://github.com/sharun-g/Superstore-Tableau-Dashboard/blob/20e5d4d7eab5ac9177afdb8aafbabbe43de061ae/customer%20dashboard.png))  
+![image alt](https://github.com/sharun-g/Superstore-Tableau-Dashboard/blob/0082d20baca3cce742826e899f04734952d927c0/customer%20dashboard.png)  
 
 🔹 **Sales Dashboard**  
 ![image alt](https://github.com/sharun-g/Superstore-Tableau-Dashboard/blob/2667dcb889d261cef5fb72278818c8ce6362b9f5/sales%20dashboard.png)  
