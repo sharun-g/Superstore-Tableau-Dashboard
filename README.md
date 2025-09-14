@@ -18,14 +18,13 @@ The dashboard provides deep insights into customer behavior, sales performance, 
 📸 **Dashboard Preview**  
 
 🔹 **Customer Dashboard**  
-![Customer Dashboard](customer dashboard.png)  
+![image alt](customer dashboard.png)  
 
 🔹 **Sales Dashboard**  
-![Sales Dashboard](<img width="1919" height="803" alt="image" src="https://github.com/user-attachments/assets/a3310ad4-39f3-4dda-9fa8-257e9cf5cb8b" />
-)  
+![image alt](sales dashboard.png)  
 
 🔹 **Filter Panel**  
-![Filter Panel](<img width="402" height="737" alt="image" src="https://github.com/user-attachments/assets/d2f75667-2d25-4591-b846-29dec42626a8" />
+![image alt](<img width="402" height="737" alt="image" src="https://github.com/user-attachments/assets/d2f75667-2d25-4591-b846-29dec42626a8" />
 )  
 
 
