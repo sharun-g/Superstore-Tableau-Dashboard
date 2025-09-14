@@ -43,8 +43,4 @@ The dashboard provides deep insights into customer behavior, sales performance, 
 
 🌐 **Live Dashboard**
 👉 [View on Tableau Public](https://public.tableau.com/app/profile/gunti.sharun/viz/dashboard_17578439040770/SalesDashboard?publish=yes&showOnboarding=true)  
-
-
-
-🧑‍💻 **Author**
-Sharun – 3rd Year B.Tech Computer Science | Data Enthusiast | Passionate about Data Analytics and Visualization  
+  
