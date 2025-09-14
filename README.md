@@ -24,8 +24,7 @@ The dashboard provides deep insights into customer behavior, sales performance, 
 ![image alt](https://github.com/sharun-g/Superstore-Tableau-Dashboard/blob/2667dcb889d261cef5fb72278818c8ce6362b9f5/sales%20dashboard.png)  
 
 🔹 **Filter Panel**  
-![image alt](<img width="402" height="737" alt="image" src="https://github.com/user-attachments/assets/d2f75667-2d25-4591-b846-29dec42626a8" />
-)  
+![image alt](https://github.com/sharun-g/Superstore-Tableau-Dashboard/blob/64a0aa952d85427ab74790e189cbc9625f079a3b/filters.png)  
 
 
 🔑 **Insights Gained**
